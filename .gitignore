@@ -8,3 +8,4 @@ var/logs/
 var/package/tmp/
 var/session/
 app/code/local
+app/etc/modules/Bulletproof_MageRetailConnect.xml
