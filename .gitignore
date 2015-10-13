@@ -7,3 +7,4 @@ var/cache/
 var/logs/
 var/package/tmp/
 var/session/
+app/code/local
